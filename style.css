@@ -279,7 +279,7 @@ h1, h2, h3, .logo {
 .hero-bg {
   position: absolute;
   inset: 0;
-  background: url('../assets/port2.png') center/cover no-repeat;
+  background: url('port2.png') center/cover no-repeat;
   opacity: 0.15;
   z-index: -1;
 }
@@ -858,4 +858,5 @@ h1, h2, h3, .logo {
   opacity: 1;
   transform: translateY(0);
 }
+
 
